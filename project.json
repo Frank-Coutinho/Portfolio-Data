@@ -15,6 +15,34 @@
       "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Logo.png",
       "link": "https://kiktek.co.mz",
       "tags": ["C#", "Avalonia", "UX", "SaaS"]
+    },
+    {
+      "id": "LBI noivas",
+      "title": "Social Media design para LBI Noivas",
+      "category": "Design Grafico",
+      "description": "Design da pagina principal de media social de uma loja de noivas",
+      "year": 2024,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/lbi/Logo.png",
+      "link": "https://kiktek.co.mz",
+      "tags": ["C#", "Avalonia", "UX", "SaaS"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/About.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Casal.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Noiva.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Promo.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/testemunho.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Mockup.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Novos-vetidos.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Visite-nos.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tips.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tip1.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tip2.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tip3.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tip4.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/OutubroRosa.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/4dapaz.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/1deMaio1.png"
+  ]
     }
   ]
 }
