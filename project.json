@@ -17,7 +17,7 @@
       "tags": ["C#", "Avalonia", "UX", "SaaS"]
     },
     {
-      "id": "LBI noivas",
+      "id": "lbi-noivas",
       "title": "Social Media design para LBI Noivas",
       "category": "Design Grafico",
       "description": "Design da pagina principal de media social de uma loja de noivas",
@@ -44,7 +44,7 @@
   ]
     },
     {
-      "id": "As Electrical",
+      "id": "as-electrical",
       "title": "As Electrical (Logo + Identity)",
       "category": "Design Grafico",
       "description": "Redesign do Logo e organização da identidade visual",
@@ -59,7 +59,7 @@
   ]
     },
     {
-      "id": "El Shaday",
+      "id": "el-shaday",
       "title": "El Shaday (Gestão de Redes) ",
       "category": "Design Grafico",
       "description": "Design da pagina principal do instagram de umaequipa de futsal",
@@ -86,11 +86,11 @@
       "tags": ["Illustrator", "Photoshop"],
       "images": [
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Kikaned.png",
-    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Kikaned-Visual-Identity.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Shirts.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Asset8.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Asset7.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Emails-corporativos.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Kikaned-Visual-Identity.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Web-development-SMPost.png"
   ]
     },
