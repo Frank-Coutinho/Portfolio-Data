@@ -42,6 +42,71 @@
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/4dapaz.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/1deMaio1.png"
   ]
+    },
+    {
+      "id": "As Electrical",
+      "title": "As Electrical (Logo + Identity)",
+      "category": "Design Grafico",
+      "description": "Redesign do Logo e organização da identidade visual",
+      "year": 2024,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/AsElectrical/Logo.png",
+      "tags": ["Illustrator", "Photoshop"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Brand-Identity.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Free-Square-Roll-Sticker.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Hard-Hat.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Label-Tag.png"
+  ]
+    },
+    {
+      "id": "El Shaday",
+      "title": "El Shaday (Gestão de Redes) ",
+      "category": "Design Grafico",
+      "description": "Design da pagina principal do instagram de umaequipa de futsal",
+      "year": 2025,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/ElShaday/Logo.png",
+      "tags": ["Photoshop", "Illustrator"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/MATCHDAY30.08.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/FIM-DE-JOGO.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/FRASE-DO-JOGO.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/MATCHDAY.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/Convocatória.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/É-HOJE.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/ElShaday/FIM-DE-JOGOdsp.png",
+  ]
+    },
+    {
+      "id": "Kikaned",
+      "title": "Kikaned (Logo + Identidade Visual)",
+      "category": "Design Grafico",
+      "description": "Design do Logo e organização da identidade visual",
+      "year": 2024,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Kikaned/Logo.png",
+      "tags": ["Illustrator", "Photoshop"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Kikaned.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Kikaned-Visual-Identity.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Shirts.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Asset8.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Asset7.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Emails-corporativos.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Kikaned/Web-development-SMPost.png"
+  ]
+    }
+    ,
+    {
+      "id": "Gpal",
+      "title": "Gopal (Logo)",
+      "category": "Design Grafico",
+      "description": "Trabalho colaborativo com AnyTech para Design do Logo da farmácia Gopal",
+      "year": 2024,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Gopal/Logo.png",
+      "tags": ["Illustrator", "Photoshop"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Gopal/Asset2.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Gopal/Asset3.png",
+  ]
     }
   ]
 }
