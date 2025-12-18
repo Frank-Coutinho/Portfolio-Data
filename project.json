@@ -12,7 +12,7 @@
       "category": "SaaS / Software",
       "description": "Stock and sales management system for small businesses.",
       "year": 2024,
-      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/images/Logo.png",
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Logo.png",
       "link": "https://kiktek.co.mz",
       "tags": ["C#", "Avalonia", "UX", "SaaS"]
     }
