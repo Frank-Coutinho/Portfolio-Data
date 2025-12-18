@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Frank Amiel Coutinho",
+    "title": "Designer & Software Developer",
+    "location": "Mozambique",
+    "email": "frank@email.com"
+  },
+  "projects": [
+    {
+      "id": "xavissa",
+      "title": "Xavissa Stock Management",
+      "category": "SaaS / Software",
+      "description": "Stock and sales management system for small businesses.",
+      "year": 2024,
+      "link": "https://kiktek.co.mz",
+      "tags": ["C#", "Avalonia", "UX", "SaaS"]
+    }
+  ]
+}
