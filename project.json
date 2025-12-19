@@ -11,14 +11,18 @@
       "title": "Xavissa Stock Management",
       "category": "SaaS / Software",
       "description": "Stock and sales management system for small businesses.",
-      "overview" : ["This project demonstrates my ability to create comprehensive solutions that address real-world business needs. From initial concept to final implementation, every aspect was carefully considered to ensure an optimal user experience."],
+      "overview" : ["O Xavissa é um sistema de gestão de vendas e stock que permite:",
+                "-Registar vendas de forma rápida e organizada",
+                "-Controlar produtos e quantidades em stock",
+                "-Consultar históricos e relatórios claros",
+                "-Trabalhar mesmo com internet instável ou inexistente."],
       "year": 2025,
       "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Xavissa/Xavissa.png",
       "link": "https://kiktek.co.mz/xavissa",
       "tags": ["C#", "Avalonia", "UX", "SaaS"],
       "images": [
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Login.png",
-    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Sales-Main.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Sales-main.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Sales.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Frame-820.png"
   ]
@@ -38,7 +42,7 @@
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Promo.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/testemunho.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Mockup.png",
-    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Novos-vetidos.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Novos-vestidos.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Visite-nos.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tips.png",
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/lbi/Tip1.png",
@@ -102,16 +106,18 @@
   ]
     },
     {
-      "id": "Gpal",
-      "title": "Gopal (Logo)",
+      "id": "temperos-da-cy",
+      "title": "Temperos Da Cy (Logo + Identity)",
       "category": "Design Grafico",
-      "description": "Trabalho colaborativo com AnyTech para Design do Logo da farmácia Gopal",
+      "description": "Design do Logo e organização da identidade visual",
       "year": 2024,
-      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Gopal/Logo.png",
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/TemperosDaCy/Logo.png",
       "tags": ["Illustrator", "Photoshop"],
       "images": [
-    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Gopal/Asset2.png",
-    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Gopal/Asset3.png"
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/TemperosDaCy/Image0001White.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Packed-Burger-Mockup-White.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/AsElectrical/Paper-Cup.png"
+    
   ]
     }
   ]
