@@ -15,7 +15,13 @@
       "year": 2025,
       "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Xavissa/Xavissa.png",
       "link": "https://kiktek.co.mz/xavissa",
-      "tags": ["C#", "Avalonia", "UX", "SaaS"]
+      "tags": ["C#", "Avalonia", "UX", "SaaS"],
+      "images": [
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Login.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Sales-Main.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Sales.png",
+    "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Xavissa/Frame-820.png",
+  ]
     },
     {
       "id": "lbi-noivas",
@@ -101,7 +107,7 @@
       "category": "Design Grafico",
       "description": "Trabalho colaborativo com AnyTech para Design do Logo da farmácia Gopal",
       "year": 2024,
-      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Gopal/Asset2.png",
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Gopal/Logo.png",
       "tags": ["Illustrator", "Photoshop"],
       "images": [
     "https://raw.githubusercontent.com/Frank-Coutinho/Portfolio-Data/main/images/Gopal/Asset2.png",
