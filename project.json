@@ -11,8 +11,9 @@
       "title": "Xavissa Stock Management",
       "category": "SaaS / Software",
       "description": "Stock and sales management system for small businesses.",
-      "year": 2024,
-      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Logo.png",
+      "overview" : ["This project demonstrates my ability to create comprehensive solutions that address real-world business needs. From initial concept to final implementation, every aspect was carefully considered to ensure an optimal user experience."],
+      "year": 2025,
+      "thumbnail": "https://raw.githubusercontent.com/Frank-Coutinho/portfolio-data/main/images/Xavissa/Logo.png",
       "link": "https://kiktek.co.mz",
       "tags": ["C#", "Avalonia", "UX", "SaaS"]
     },
